@@ -9,5 +9,3 @@ function convertTo12HourClock(time) {
 }
 
 module.exports = { convertTo12HourClock };
-
-// Hint: I recommend calling the function with an input of '12:05'

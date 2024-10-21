@@ -14,5 +14,3 @@ function isPalindrome(str) {
 }
 
 module.exports = { isPalindrome };
-
-console.log(isPalindrome("racecar")); // should return true

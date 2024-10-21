@@ -3,5 +3,3 @@ function square(num) {
 }
 
 module.exports = { square };
-
-square(5);
