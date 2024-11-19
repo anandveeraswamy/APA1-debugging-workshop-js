@@ -20,5 +20,3 @@ function findClosingParenthesis(str, n) {
 }
 
 module.exports = { findClosingParenthesis };
-
-console.log(findClosingParenthesis("Hello, (world). (Something Else).", 2)); // should return 31

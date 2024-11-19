@@ -13,5 +13,3 @@ function fizzBuzz(n) {
 }
 
 module.exports = { fizzBuzz };
-
-fizzBuzz(15); // not quite working...

@@ -20,9 +20,3 @@ function convertTemperature(temperature, toUnit, fromUnit) {
 }
 
 module.exports = { convertTemperature };
-
-// Test cases
-console.log(convertTemperature(0, "C", "F")); // Should output: 32
-console.log(convertTemperature(100, "C", "F")); // Should output: 212
-console.log(convertTemperature(32, "F", "C")); // Should output: 0
-console.log(convertTemperature(98.6, "F", "C")); // Should output: 37
