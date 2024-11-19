@@ -34,7 +34,7 @@ Effective debugging involves several key steps:
 1. Establish or clarify the **expected behaviour** of your program.
    For example, if you call a function with a certain set of inputs, we should expect to get back a particular return value.
 2. Call the function/program you want to debug.
-3. Identify the difference between the** expected behaviour** and the actual behaviour (what happens when you actually run the code).
+3. Identify the difference between the **expected behaviour** and the actual behaviour (what happens when you actually run the code).
 4. Use various strategies (see below) to find out why the bug is occurring.
 5. Fix the bug and verify that the program now works as expected.
 
@@ -48,7 +48,7 @@ In most programming languages, we can print or log variables to check if they're
 
 ### 👣 Step Through Execution
 
-Stepping through code, also known as "playing computer," is a technique where you step through the execution of a program line by line to check the values in memory as the program runs. You can do this manually using a piece of paper or use tools like [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) for visualization.
+Stepping through code, also known as "playing computer," is a technique where you step through the execution of a program line by line to check the values in memory as the program runs. You can do this manually using a piece of paper or use tools like [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) for visualisation.
 
 ### 💡 Rubber Duck Debugging
 
