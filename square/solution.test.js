@@ -1,4 +1,4 @@
-const { square } = require("./solution.js"); // Assuming the square function is in a file named square.js
+const { square } = require("./solution.js"); // Assuming the square function is in a file named solution.js
 
 describe("square function", () => {
   test("squares positive integers correctly", () => {
