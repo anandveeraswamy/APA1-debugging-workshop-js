@@ -63,27 +63,27 @@ We recommend you tackle these problems in the following order. The problems will
 As a group, you should check you understand the task by going through some problems together and asking questions. We recommend you debug the following problems together:
 
 1. `square`
-1. `increment`
-1. `capitalise`
+2. `increment`
+3. `capitalise`
 
 ### 🍎 Core
 
-1. `percentage-change`
-1. `pence-to-pounds`
-1. `12-hour-clock`
-1. `convert-temperature`
-1. `times-table`
-1. `rotate-angle`
-1. `right-angled-triangle`
-1. `fizz-buzz`
-1. `sum-digits`
-1. `count-char`
+4. `percentage-change`
+5. `pence-to-pounds`
+6. `12-hour-clock`
+7. `convert-temperature`
+8. `times-table`
+9. `rotate-angle`
+10. `right-angled-triangle`
+11. `fizz-buzz`
+12. `sum-digits`
+13. `count-char`
 
 ### 🧠 Challenge
 
-1. `multiple-of-five`
-1. `find-century`
-1. `is-valid-triangle`
-1. `text-in-div`
-1. `is-palindrome`
-1. `find-closing-parenthesis`
+14. `multiple-of-five`
+15. `find-century`
+16. `is-valid-triangle`
+17. `text-in-div`
+19. `is-palindrome`
+19. `find-closing-parenthesis`

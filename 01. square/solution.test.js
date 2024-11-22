@@ -1,5 +1,7 @@
 const { square } = require("./solution.js"); // Assuming the square function is in a file named solution.js
 
+// Isolate and run these tests only by: npm test -- -t "square function"
+
 describe("square function", () => {
   test("squares positive integers correctly", () => {
     expect(square(4)).toBe(16);
