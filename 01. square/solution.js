@@ -1,5 +1,5 @@
 function square(num) {
-  return num * num;
+  num * 2;
 }
 
 module.exports = { square };
