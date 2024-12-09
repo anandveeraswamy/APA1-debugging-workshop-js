@@ -1,5 +1,6 @@
 function capitalise(word) {
-  return word.slice(0,1).toUpperCase() + word.slice(1).toLowerCase();
+  word[0] = word[0].toUpperCase();
+  return word;
 }
 
 module.exports = { capitalise };
