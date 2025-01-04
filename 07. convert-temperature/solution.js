@@ -1,4 +1,4 @@
-function convertTemperature(temperature, toUnit, fromUnit) {
+function convertTemperature(temperature, fromUnit, toUnit) {
   // Check if the units are the same
   if (fromUnit === toUnit) {
     return Number(temperature.toFixed(2));

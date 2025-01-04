@@ -6,6 +6,7 @@ describe("rotateAngleByDegrees()", () => {
     expect(rotateAngleByDegrees(350, 15)).toBe(5);
     expect(rotateAngleByDegrees(270, 180)).toBe(90);
     expect(rotateAngleByDegrees(90, -100)).toBe(350);
+    expect(rotateAngleByDegrees(90, -80)).toBe(10);
   });
 
   test("handles full rotations correctly", () => {
