@@ -1,12 +1,11 @@
 function countChar(string, char) {
   let i = 0;
   let count = 0;
-  do {
-    if ((string[i] = char)) {
+  for (const character of string) {
+    if( character === char) {
       count++;
-      i++;
     }
-  } while (i < char.length);
+  }
   return count;
 }
 
